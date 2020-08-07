@@ -14,3 +14,21 @@ En el cuaderno de Jupyter, se proporciona el trabajo realizado a lo largo del an
     - Elección de Componentes Principales.
     - Clustering.
     - Visualizacón.
+
+# Requerimientos
+    Jupyter Notebook
+    Anaconda
+    Descargar el Archivo 
+# Dependencias
+    - Pandas.
+    - Numpy.
+    - sklearn
+    - matplotlib.pyplot.
+    - random.
+    - scipy.
+    - time.
+    - mpl_toolkits.
+    
+# Referencias
+
+[1] COVID19. master_dataset.csv. https://www.covid19survivalcalculator.com/es/download. Descargado la fecha: 2020-07-19.
